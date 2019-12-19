@@ -1,0 +1,43 @@
+{
+    "name": "Nobel Prize",
+    "description": "Nobelprize.org, Official web site of the Nobel Prize",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1522-nobel-prize.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "nobel",
+        "nobel prize",
+        "sweden"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/nobel-prize\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Nobel Prize",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1522-nobel-prize.jpg",
+            "humanURL": "http:\/\/www.nobelprize.org\/nobel_organizations\/nobelmedia\/nobelprize_org\/developer\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/nobel-prize-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.nobelprize.org\/nobel_organizations\/nobelmedia\/nobelprize_org\/developer\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/NobelPrize"
+        }
+    ]
+}
