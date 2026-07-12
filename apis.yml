@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://www.nobelprize.org/about/developer-zone-2/
 common:
+  - type: DomainSecurity
+    url: security/nobel-prize-domain-security.yml
   - type: Website
     url: https://www.nobelprize.org/about/developer-zone-2/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.nobelprize.org/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
