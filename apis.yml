@@ -39,7 +39,6 @@ apis:
   - name: Nobel Prize
     description: "Open data about nobel prizes and events"
     humanURL: https://www.nobelprize.org/about/developer-zone-2/
-    baseURL: https://www.nobelprize.org/about/developer-zone-2/
     tags:
       - Open Data
     properties:
